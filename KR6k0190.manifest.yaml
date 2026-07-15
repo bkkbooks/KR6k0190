@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0190/v1
 canonical_location: https://kanripo.org/bkk/KR6k0190/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 說罪要行法
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0190_000.yaml, hash: 'sha256:2408c57f4863ab23cb9fd6a80503650b38ea492ddcecaaf1522da2e975c14b98'}
-  - {seq: 1, filename: KR6k0190_001.yaml, hash: 'sha256:b611146d44d15862c67887c8f6b7c76149778047e81cc7af3571ebeab03fa220'}
+  - {seq: 1, filename: KR6k0190_001.yaml, hash: 'sha256:f3447e86af09b986cabb477234de7b8fa3cea68959f5e5b31e932a9e7e1926ee'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0190_000.markers.yaml, hash: 'sha256:a6cd44b394de1a2483befe98d7e6942ee59efcd6dfecb9f868ee10db9f11bccb'}
-  - {seq: 1, role: markers, filename: assets/KR6k0190_001.markers.yaml, hash: 'sha256:c01c6d16b7d19254170704012086169d36d2f110ce1ecd3884c3d6c0df3112dc'}
+  - {seq: 1, role: markers, filename: assets/KR6k0190_001.markers.yaml, hash: 'sha256:3f716345d8fd776efe13814aa7c61429f383a09dfa68b2980b6252f4dbfd21db'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,6 +42,9 @@ table_of_contents:
   label: 每食罷發願法
   type: mulu
   level: 1
-hash: sha256:34310a5c1e8c8d9daf3cb672ac24a2860f541bc62aa349a2178b5c0cff72d84c
+hash: sha256:f11f606910dffbe390baa8db8b44ca3ac6425a1a698b3d2f300922824e45169a
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
